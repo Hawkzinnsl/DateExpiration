@@ -1,16 +1,8 @@
-{
-  "clientes": [
+[
     {
-      "login": "MrHush",
-      "senha": "dev",
-      "hwid": "4d04907b70bad834",
-      "validade": "2051-06-27"
-    },
-    {
-      "login": "usuario2",
-      "senha": "senha2",
-      "hwid": "exemplo2",
-      "validade": "2025-12-01"
+        "usuario": "MrHush",
+        "senha": "dev",
+        "hwid": "4d04907b70bad834",
+        "validade": "2051-06-27"
     }
-  ]
-}
+]
