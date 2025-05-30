@@ -1,15 +1,45 @@
 [
     {
-        "usuario": "MrHush",
-        "senha": "dev",
-        "hwid": "dadb5268854535fe",
+        "usuario": "c4dev",
+        "senha": "2020",
+        "hwid": "983f24c329c3093a",
         "validade": "2051-06-27"
     },
-{
-    "usuario": "MrHush",
-        "senha": "dev",
-        "hwid": "4d04907b70bad834",
-        "validade": "2051-06-27"
-}
+    {
+        "usuario": "Mineiro",
+        "senha": "1010",
+        "hwid": "28fefad7e3c42f42",
+        "validade": "2025-05-12"
+    },
+    {
+        "usuario": "NyckRev",
+        "senha": "2025",
+        "hwid": "125d0b75b02144ce",
+        "validade": "2027-01-01"
+    },
+    {
+        "usuario": "Cliente01",
+        "senha": "1010",
+        "hwid": "ee363358e65ea393",
+        "validade": "2025-05-05"
+    },
+    {
+        "usuario": "Clientedolenda",
+        "senha": "1010",
+        "hwid": "3fa89da857cf8306",
+        "validade": "2025-06-01"
+    },
+    {
+        "usuario": "LF",
+        "senha": "10",
+        "hwid": "c4cf58883d8e89d0",
+        "validade": "2025-06-09"
+    },
+    {
+        "usuario": "Pio",
+        "senha": "10",
+        "hwid": "3361fcf674967920",
+        "validade": "2025-06-07"
+    },
 
 ]
