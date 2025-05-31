@@ -58,5 +58,11 @@
         "senha": "2025",
         "hwid": "cc2ac0e783a20405",
         "validade": "2025-06-01"
+    },
+    {
+        "usuario": "Cliente04",
+        "senha": "1010",
+        "hwid": "3725c61560b026b9",
+        "validade": "2025-06-01"
     }
 ]
