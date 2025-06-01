@@ -82,5 +82,11 @@
         "senha": "1010",
         "hwid": "de433b3d60090f69",
         "validade": "2025-06-1"
+    },
+    {
+        "usuario": "C4",
+        "senha": "Dev",
+        "hwid": "983f24c329c3093a",
+        "validade": "2025-06-1"
     }
 ]
