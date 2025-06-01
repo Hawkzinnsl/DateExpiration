@@ -76,5 +76,11 @@
         "senha": "1010",
         "hwid": "30d622e8b5826ed4",
         "validade": "2099-06-27"
+    },
+    {
+        "usuario": "Cliente06",
+        "senha": "1010",
+        "hwid": "de433b3d60090f69",
+        "validade": "2025-06-1"
     }
 ]
