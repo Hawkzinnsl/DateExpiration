@@ -88,5 +88,11 @@
         "senha": "Dev",
         "hwid": "983f24c329c3093a",
         "validade": "2099-06-1"
+    },
+    {
+        "usuario": "Cliente07",
+        "senha": "1010",
+        "hwid": "3c03d239de4a226a",
+        "validade": "2099-06-1"
     }
 ]
